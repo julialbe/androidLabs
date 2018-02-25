@@ -1,0 +1,17 @@
+*.iml
+.idea
+/idea
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+bin/
+gen/
+*.apk
+*.ap_
+*.dex
+*.class
+.navigation
+captures/
+output.json
